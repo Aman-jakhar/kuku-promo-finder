@@ -1,5 +1,6 @@
-# Confidential Kuku content (root directories)
+# Confidential Kuku content (root & nested raw outputs)
 /data/
+outputs/**/raw/
 /outputs/raw/
 *.zip
 
