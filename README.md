@@ -15,7 +15,7 @@ Every required and bonus deliverable specified in the Kuku brief is completed, v
 | **3. Quality & Failure Report** | [`quality_report.md`](./quality_report.md) | Validator pass/fail counts, 10-promo manual audit table, and **3 real AI failure modes** (Pronoun Ambiguity, Climax Resolution, Mid-Word Cuts) with programmatic remedies. |
 | **4. Raw Outputs (JSON & CSV)** | [`outputs/raw/promos.json`](./outputs/raw/promos.json)<br>[`outputs/raw/promos.csv`](./outputs/raw/promos.csv) | Full 105-promo catalog adhering to the exact required JSON schema + tabular CSV export. |
 | **5. NLE Finishing Package** | [`outputs/edl/`](./outputs/edl/) | **Industry-standard CMX 3600 EDL** cut lists and **SRT subtitles** for instant drag-and-drop import into Adobe Premiere Pro, DaVinci Resolve, and Final Cut Pro. |
-| **6. React 9:16 Mobile Studio** | [`frontend/`](./frontend/) | **Interactive editorial suite** running at `http://localhost:3000` with 9:16 phone simulator, live dynamic rubric sliders, 50-episode viral heatmap, and A/B split-testing. |
+| **6. React 9:16 Mobile Studio** | [`frontend/`](./frontend/) | **Interactive editorial suite** deployed live at **[https://kuku-promo-finder-beta.vercel.app/](https://kuku-promo-finder-beta.vercel.app/)** (or locally at `http://localhost:3000`) with 9:16 phone simulator, live dynamic rubric sliders, 50-episode viral heatmap, and A/B split-testing. |
 | **7. Streamlit Review App** | [`app.py`](./app.py) | Standalone single-page web app running at `http://localhost:8501` for quick transcript inspection and ZIP upload. |
 | **8. Form Submission Answers** | [`SUBMISSION_CHECKLIST.md`](./SUBMISSION_CHECKLIST.md) | Ready-to-use, copy-paste answers and key metrics for the official placement submission form. |
 | **9. 3-Min Walkthrough Script** | [`WALKTHROUGH_SCRIPT.md`](./WALKTHROUGH_SCRIPT.md) | Word-for-word 3-minute video recording guide for Loom / Google Drive. |
@@ -84,7 +84,8 @@ cd frontend
 npm install
 npm run preview # or npm run dev
 ```
-👉 **Live at:** `http://localhost:3000`
+👉 **Live Public Prototype:** **[https://kuku-promo-finder-beta.vercel.app/](https://kuku-promo-finder-beta.vercel.app/)**  
+👉 **Local Development:** `http://localhost:3000`
 
 **Features:**
 - **9:16 Phone Simulator:** Animated vertical playhead, real-time synchronized screenplay subtitles, Hook Zone (0–3s), and Cliffhanger cut tension indicator.

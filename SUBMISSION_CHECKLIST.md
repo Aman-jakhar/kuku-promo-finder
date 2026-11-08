@@ -10,7 +10,7 @@ Use this reference sheet when filling out the official Kuku submission form.
 | :--- | :--- |
 | **Problem Chosen** | **Problem 1: Find the Promos** |
 | **Solution Doc Link** | Path to [`solution_doc.pdf`](./solution_doc.pdf) *(strictly 2 pages max, verified)* |
-| **Prototype Link** | Link to your GitHub Repo / Hosted App (e.g. `http://localhost:3000` or Streamlit / Vercel deployment) |
+| **Prototype Link** | **[https://kuku-promo-finder-beta.vercel.app/](https://kuku-promo-finder-beta.vercel.app/)** *(Live Vercel Deployment)* or GitHub repo link |
 | **Raw Outputs Folder Link** | Path to [`outputs/raw/`](./outputs/raw/) *(contains all per-episode JSONs + final `promos.json` + `promos.csv`)* |
 | **Walkthrough Video Link (Optional & Recommended)** | Up to 3-minute screen recording using [`WALKTHROUGH_SCRIPT.md`](./WALKTHROUGH_SCRIPT.md) (Loom / Google Drive / Unlisted YouTube) |
 
