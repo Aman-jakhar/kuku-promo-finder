@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "promo_id": "ep011_finale_cliffhanger",
+      "segments": [
+        {
+          "episode": 11,
+          "start": "00:58.00",
+          "end": "01:52.75"
+        }
+      ],
+      "hook": "JULIANA: \"Stop! Those are my mother's medicines!\"",
+      "cliffhanger": "Episode ends on high-tension beat at 01:52.75: \"There it is. Ha!\"",
+      "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+      "hook_score": 4.5,
+      "cliffhanger_score": 4.8
+    },
+    {
+      "promo_id": "ep011_opening_hook",
+      "segments": [
+        {
+          "episode": 11,
+          "start": "00:02.00",
+          "end": "00:46.30"
+        }
+      ],
+      "hook": "ACTION: Juliana wrings a damp rag in her hands, her face etched with rising dread, while",
+      "cliffhanger": "Cuts at 00:46.30: \"You cannot simply invade our home because this man makes an accusation!\"",
+      "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+      "hook_score": 4.6,
+      "cliffhanger_score": 4.3
+    },
+    {
+      "promo_id": "ep011_mid_confrontation",
+      "segments": [
+        {
+          "episode": 11,
+          "start": "00:16.80",
+          "end": "00:43.30"
+        }
+      ],
+      "hook": "GERALD: \"Your husband stole my gold pocket watch!\"",
+      "cliffhanger": "Unresolved confrontation cut at 00:43.30: \"Then a search will settle the matter.\"",
+      "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+      "hook_score": 4.3,
+      "cliffhanger_score": 4.5
+    }
+  ]
+}

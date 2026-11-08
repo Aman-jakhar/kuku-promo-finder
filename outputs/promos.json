@@ -1,0 +1,2743 @@
+[
+  {
+    "rank": 1,
+    "promo_id": "stitched_ep01_ep03_betrayal_revenge",
+    "segments": [
+      {
+        "episode": 1,
+        "start": "00:11.30",
+        "end": "00:25.50",
+        "start_s": 11.3,
+        "end_s": 25.5,
+        "duration_s": 14.2
+      },
+      {
+        "episode": 3,
+        "start": "01:04.50",
+        "end": "01:25.40",
+        "start_s": 64.5,
+        "end_s": 85.4,
+        "duration_s": 20.9
+      }
+    ],
+    "total_seconds": 35.1,
+    "hook": "MATRIARCH: \"You should turn around, Juliana.\"",
+    "cliffhanger": "DUKE ALEXANDER: 'She is not alone anymore.' Will Juliana accept the broken Duke?",
+    "why_it_works": "Juxtaposes the public humiliation of the altar rejection directly against the dramatic redemption by Duke Alexander.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.8,
+      "cliffhanger": 4.9,
+      "standalone": 4.3,
+      "overall": 4.685
+    },
+    "flags": [
+      "SNAP_END: Seg 1 snapped 25.00s -> 25.50s (delta=0.50s)",
+      "SNAP_END: Seg 2 snapped 85.00s -> 85.40s (delta=0.40s)"
+    ]
+  },
+  {
+    "rank": 2,
+    "promo_id": "ep036_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 36,
+        "start": "02:26.50",
+        "end": "03:20.75",
+        "start_s": 146.5,
+        "end_s": 200.75,
+        "duration_s": 54.25
+      }
+    ],
+    "total_seconds": 54.25,
+    "hook": "ALEXANDER: \"What wedding?\"",
+    "cliffhanger": "Episode ends on high-tension beat at 03:20.75: Alexander stares resolutely ahead into the dark, snowy woods as the camera holds",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.7,
+      "overall": 4.665
+    },
+    "flags": []
+  },
+  {
+    "rank": 3,
+    "promo_id": "ep007_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 7,
+        "start": "01:01.80",
+        "end": "01:56.00",
+        "start_s": 61.8,
+        "end_s": 116.0,
+        "duration_s": 54.2
+      }
+    ],
+    "total_seconds": 54.2,
+    "hook": "JULIANA: \"You have no authority here. Leave.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:56.00: \"I didn't need to.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.7,
+      "overall": 4.665
+    },
+    "flags": []
+  },
+  {
+    "rank": 4,
+    "promo_id": "ep044_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 44,
+        "start": "00:17.40",
+        "end": "01:10.50",
+        "start_s": 17.4,
+        "end_s": 70.5,
+        "duration_s": 53.1
+      }
+    ],
+    "total_seconds": 53.1,
+    "hook": "BLOND NOBLEMAN: \"Do something!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:10.50: \"Her?!\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.7,
+      "overall": 4.665
+    },
+    "flags": []
+  },
+  {
+    "rank": 5,
+    "promo_id": "ep046_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 46,
+        "start": "01:32.20",
+        "end": "02:23.88",
+        "start_s": 92.2,
+        "end_s": 143.88,
+        "duration_s": 51.68
+      }
+    ],
+    "total_seconds": 51.68,
+    "hook": "HIGH PRIEST: \"God did not marry you. A frightened parishioner did, without leave, without lic",
+    "cliffhanger": "Episode ends on high-tension beat at 02:23.88: \"Ten days is plenty of time.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.7,
+      "overall": 4.665
+    },
+    "flags": []
+  },
+  {
+    "rank": 6,
+    "promo_id": "ep001_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 1,
+        "start": "01:30.90",
+        "end": "02:18.00",
+        "start_s": 90.9,
+        "end_s": 138.0,
+        "duration_s": 47.1
+      }
+    ],
+    "total_seconds": 47.1,
+    "hook": "MATRIARCH: \"Enough!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:18.00: Juliana breathes through the agony, refusing to break down further in front of t",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.7,
+      "overall": 4.665
+    },
+    "flags": []
+  },
+  {
+    "rank": 7,
+    "promo_id": "ep002_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 2,
+        "start": "01:06.10",
+        "end": "01:50.00",
+        "start_s": 66.1,
+        "end_s": 110.0,
+        "duration_s": 43.9
+      }
+    ],
+    "total_seconds": 43.9,
+    "hook": "OFF-SCREEN VOICE: \"You should be grateful you're at least allowed to attend the wedding.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:50.00: Juliana breathes with steady resolve, holding her head high as the solemn orches",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.7,
+      "overall": 4.665
+    },
+    "flags": []
+  },
+  {
+    "rank": 8,
+    "promo_id": "ep012_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 12,
+        "start": "00:44.00",
+        "end": "01:27.21",
+        "start_s": 44.0,
+        "end_s": 87.21,
+        "duration_s": 43.21
+      }
+    ],
+    "total_seconds": 43.21,
+    "hook": "CLARISSA: \"I want to see you crawl, sister.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:27.21: Juliana locks eyes with Clarissa without flinching as the scene freezes on her b",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.7,
+      "overall": 4.665
+    },
+    "flags": []
+  },
+  {
+    "rank": 9,
+    "promo_id": "ep038_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 38,
+        "start": "00:45.50",
+        "end": "01:27.91",
+        "start_s": 45.5,
+        "end_s": 87.91,
+        "duration_s": 42.41
+      }
+    ],
+    "total_seconds": 42.41,
+    "hook": "JULIANA: \"What if I die here?\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:27.91: \"Alexander...\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.7,
+      "overall": 4.665
+    },
+    "flags": []
+  },
+  {
+    "rank": 10,
+    "promo_id": "ep040_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 40,
+        "start": "01:09.80",
+        "end": "01:50.08",
+        "start_s": 69.8,
+        "end_s": 110.08,
+        "duration_s": 40.28
+      }
+    ],
+    "total_seconds": 40.28,
+    "hook": "ELDER NOBLEMAN: \"By sunset, Ashburgh will have its new Duke and Duchess.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:50.08: Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as ",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.7,
+      "overall": 4.665
+    },
+    "flags": []
+  },
+  {
+    "rank": 11,
+    "promo_id": "ep004_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 4,
+        "start": "01:53.00",
+        "end": "02:31.40",
+        "start_s": 113.0,
+        "end_s": 151.4,
+        "duration_s": 38.4
+      }
+    ],
+    "total_seconds": 38.4,
+    "hook": "THE PRIEST: \"...husband and wife!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:31.40: Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering do",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.7,
+      "overall": 4.665
+    },
+    "flags": []
+  },
+  {
+    "rank": 12,
+    "promo_id": "ep028_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 28,
+        "start": "01:53.30",
+        "end": "02:18.50",
+        "start_s": 113.3,
+        "end_s": 138.5,
+        "duration_s": 25.2
+      }
+    ],
+    "total_seconds": 25.2,
+    "hook": "JULIANA: \"Do not speak about my husband!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:18.50: \"...before he sends you to the gallows.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.7,
+      "overall": 4.665
+    },
+    "flags": []
+  },
+  {
+    "rank": 13,
+    "promo_id": "ep005_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 5,
+        "start": "00:55.50",
+        "end": "01:50.50",
+        "start_s": 55.5,
+        "end_s": 110.5,
+        "duration_s": 55.0
+      }
+    ],
+    "total_seconds": 55.0,
+    "hook": "JULIANA: \"Barbara, don't!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:50.50: \"Come.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 14,
+    "promo_id": "ep024_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 24,
+        "start": "00:37.00",
+        "end": "01:32.00",
+        "start_s": 37.0,
+        "end_s": 92.0,
+        "duration_s": 55.0
+      }
+    ],
+    "total_seconds": 55.0,
+    "hook": "NOBLEWOMAN: \"Not a physician. Not a lady.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:32.00: \"I will return. You cannot stop the healer.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 15,
+    "promo_id": "ep011_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 11,
+        "start": "00:58.00",
+        "end": "01:52.75",
+        "start_s": 58.0,
+        "end_s": 112.75,
+        "duration_s": 54.75
+      }
+    ],
+    "total_seconds": 54.75,
+    "hook": "JULIANA: \"Stop! Those are my mother's medicines!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:52.75: \"There it is. Ha!\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 16,
+    "promo_id": "ep019_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 19,
+        "start": "01:05.10",
+        "end": "01:59.63",
+        "start_s": 65.1,
+        "end_s": 119.63,
+        "duration_s": 54.53
+      }
+    ],
+    "total_seconds": 54.53,
+    "hook": "INFORMANT: \"But they have separated her from the household. She is watched constantly. Ever",
+    "cliffhanger": "Episode ends on high-tension beat at 01:59.63: Alexander sits down beside her in the straw. Juliana leans gently against his sh",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 17,
+    "promo_id": "ep042_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 42,
+        "start": "00:23.50",
+        "end": "01:17.80",
+        "start_s": 23.5,
+        "end_s": 77.8,
+        "duration_s": 54.3
+      }
+    ],
+    "total_seconds": 54.3,
+    "hook": "BLOND NOBLEMAN: \"I said arrest him!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:17.80: \"And now, Rupert... we settle what you stole.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 18,
+    "promo_id": "ep022_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 22,
+        "start": "01:17.50",
+        "end": "02:11.00",
+        "start_s": 77.5,
+        "end_s": 131.0,
+        "duration_s": 53.5
+      }
+    ],
+    "total_seconds": 53.5,
+    "hook": "ACTION: The Housekeeper turns and stalks away down the corridor. Prudence exhales a trem",
+    "cliffhanger": "Episode ends on high-tension beat at 02:11.00: \"Who has been treating you?\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 19,
+    "promo_id": "ep008_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 8,
+        "start": "00:25.00",
+        "end": "01:18.00",
+        "start_s": 25.0,
+        "end_s": 78.0,
+        "duration_s": 53.0
+      }
+    ],
+    "total_seconds": 53.0,
+    "hook": "JULIANA: \"Your hair and beard...\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:18.00: Juliana maintains her warm, peaceful gaze across the table as soft firelight fli",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 20,
+    "promo_id": "ep045_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 45,
+        "start": "01:08.80",
+        "end": "02:01.75",
+        "start_s": 68.8,
+        "end_s": 121.75,
+        "duration_s": 52.95
+      }
+    ],
+    "total_seconds": 52.95,
+    "hook": "CATHERINE: \"Wife?!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:01.75: Catherine raises her chin, a vindictive smirk spreading across her lips as she r",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 21,
+    "promo_id": "ep017_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 17,
+        "start": "01:06.00",
+        "end": "01:58.88",
+        "start_s": 66.0,
+        "end_s": 118.88,
+        "duration_s": 52.88
+      }
+    ],
+    "total_seconds": 52.88,
+    "hook": "ACTION: Juliana rests her cheek against Alexander's chest, closing her eyes as his stron",
+    "cliffhanger": "Episode ends on high-tension beat at 01:58.88: \"But every day, he gives me another reason to trust him.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 22,
+    "promo_id": "ep050_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 50,
+        "start": "00:27.20",
+        "end": "01:20.00",
+        "start_s": 27.2,
+        "end_s": 80.0,
+        "duration_s": 52.8
+      }
+    ],
+    "total_seconds": 52.8,
+    "hook": "CATHERINE: \"That's not absolution, Thomas. That's a fortune.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:20.00: Agnes's jaw drops open in shock as she stifles a cry.",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 23,
+    "promo_id": "ep023_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 23,
+        "start": "01:19.00",
+        "end": "02:11.50",
+        "start_s": 79.0,
+        "end_s": 131.5,
+        "duration_s": 52.5
+      }
+    ],
+    "total_seconds": 52.5,
+    "hook": "LADY JULIANA: \"Someone is poisoning her.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:11.50: \"Juliana... someone is coming.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 24,
+    "promo_id": "ep014_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 14,
+        "start": "00:35.80",
+        "end": "01:27.63",
+        "start_s": 35.8,
+        "end_s": 87.63,
+        "duration_s": 51.83
+      }
+    ],
+    "total_seconds": 51.83,
+    "hook": "ALEXANDER: \"You should never have had to bleed for me.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:27.63: Alexander's muscular arm drops into frame beside the bloody bucket; his scarred ",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 25,
+    "promo_id": "ep018_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 18,
+        "start": "02:20.50",
+        "end": "03:12.00",
+        "start_s": 140.5,
+        "end_s": 192.0,
+        "duration_s": 51.5
+      }
+    ],
+    "total_seconds": 51.5,
+    "hook": "ACTION: Alexander kneels beside her in the grass, resting a steady, protective hand on h",
+    "cliffhanger": "Episode ends on high-tension beat at 03:12.00: \"What are you going to do?\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 26,
+    "promo_id": "ep015_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 15,
+        "start": "00:34.80",
+        "end": "01:26.00",
+        "start_s": 34.8,
+        "end_s": 86.0,
+        "duration_s": 51.2
+      }
+    ],
+    "total_seconds": 51.2,
+    "hook": "JULIANA: \"Leave my garden alone.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:26.00: \"What? You want to fight us, veteran?\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 27,
+    "promo_id": "ep037_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 37,
+        "start": "01:45.50",
+        "end": "02:36.47",
+        "start_s": 105.5,
+        "end_s": 156.47,
+        "duration_s": 50.97
+      }
+    ],
+    "total_seconds": 50.97,
+    "hook": "JULIANA: \"I will not!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:36.47: Clarissa takes a slow sip of the red wine, her eyes gleaming with dark relish.",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 28,
+    "promo_id": "ep032_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 32,
+        "start": "01:43.80",
+        "end": "02:34.38",
+        "start_s": 103.8,
+        "end_s": 154.38,
+        "duration_s": 50.58
+      }
+    ],
+    "total_seconds": 50.58,
+    "hook": "JULIANA: \"And a woman who never embarrasses the people standing behind her.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:34.38: Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 29,
+    "promo_id": "ep025_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 25,
+        "start": "01:57.50",
+        "end": "02:48.00",
+        "start_s": 117.5,
+        "end_s": 168.0,
+        "duration_s": 50.5
+      }
+    ],
+    "total_seconds": 50.5,
+    "hook": "JULIANA: \"She is still sick. I cannot leave her there.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:48.00: Alexander turns, falling into step beside Juliana. Together, side by side, they ",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 30,
+    "promo_id": "ep034_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 34,
+        "start": "02:19.60",
+        "end": "03:10.00",
+        "start_s": 139.6,
+        "end_s": 190.0,
+        "duration_s": 50.4
+      }
+    ],
+    "total_seconds": 50.4,
+    "hook": "LORD: \"Even now, she refuses to repent.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 03:10.00: The Judge extends his raised hand high in judgment over Lady Juliana as the scen",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 31,
+    "promo_id": "ep039_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 39,
+        "start": "00:48.20",
+        "end": "01:38.41",
+        "start_s": 48.2,
+        "end_s": 98.41,
+        "duration_s": 50.21
+      }
+    ],
+    "total_seconds": 50.21,
+    "hook": "LOYALIST FIGHTER: \"Tell the Duke.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:38.41: Alexander's eyes burn with furious determination as the screen cuts sharply to b",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 32,
+    "promo_id": "ep047_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 47,
+        "start": "01:24.00",
+        "end": "02:14.00",
+        "start_s": 84.0,
+        "end_s": 134.0,
+        "duration_s": 50.0
+      }
+    ],
+    "total_seconds": 50.0,
+    "hook": "ALEXANDER: \"Juliana, she tried to destroy you!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:14.00: \"I accept, Your Grace.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 33,
+    "promo_id": "ep003_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 3,
+        "start": "01:36.50",
+        "end": "02:25.75",
+        "start_s": 96.5,
+        "end_s": 145.75,
+        "duration_s": 49.25
+      }
+    ],
+    "total_seconds": 49.25,
+    "hook": "NOBLE MATRIARCH: \"You cannot interfere in a family matter!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:25.75: Juliana gazes down at her rugged savior, overcome with emotion as the swelling s",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 34,
+    "promo_id": "ep030_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 30,
+        "start": "01:42.20",
+        "end": "02:31.21",
+        "start_s": 102.2,
+        "end_s": 151.21,
+        "duration_s": 49.01
+      }
+    ],
+    "total_seconds": 49.01,
+    "hook": "CATHERINE: \"Her botanical ledger...\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:31.21: Juliana clutches a rough burlap rag to her trembling chest, her tear-stained fac",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 35,
+    "promo_id": "ep010_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 10,
+        "start": "00:45.30",
+        "end": "01:34.00",
+        "start_s": 45.3,
+        "end_s": 94.0,
+        "duration_s": 48.7
+      }
+    ],
+    "total_seconds": 48.7,
+    "hook": "JULIANA: \"You have suffered terribly.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:34.00: \"Your touch is the only medicine that has ever eased my pain.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 36,
+    "promo_id": "ep013_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 13,
+        "start": "01:11.40",
+        "end": "01:58.88",
+        "start_s": 71.4,
+        "end_s": 118.88,
+        "duration_s": 47.48
+      }
+    ],
+    "total_seconds": 47.48,
+    "hook": "ALEXANDER: \"Please... enough!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:58.88: Juliana reaches out her torn, bloodied hand and wraps her fingers tightly around",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 37,
+    "promo_id": "ep033_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 33,
+        "start": "02:06.80",
+        "end": "02:54.04",
+        "start_s": 126.8,
+        "end_s": 174.04,
+        "duration_s": 47.24
+      }
+    ],
+    "total_seconds": 47.24,
+    "hook": "MAID: \"No! She saved Toby! She made him breathe again!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:54.04: The heartbroken maid weeps silently in the shadow of the desk, consumed by guilt",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 38,
+    "promo_id": "ep026_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 26,
+        "start": "01:13.80",
+        "end": "02:00.88",
+        "start_s": 73.8,
+        "end_s": 120.88,
+        "duration_s": 47.08
+      }
+    ],
+    "total_seconds": 47.08,
+    "hook": "DOWAGER DUCHESS: \"Then tell me... why is a girl of such noble spirit working as a common maid?\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:00.88: \"Where... where... Where did you get this ring? Speak to me!\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 39,
+    "promo_id": "ep029_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 29,
+        "start": "01:12.10",
+        "end": "01:56.69",
+        "start_s": 72.1,
+        "end_s": 116.69,
+        "duration_s": 44.59
+      }
+    ],
+    "total_seconds": 44.59,
+    "hook": "CATHERINE: \"Your scarred soldier?\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:56.69: \"They took her locket. But they will not take Alexander from me.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 40,
+    "promo_id": "ep009_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 9,
+        "start": "01:11.20",
+        "end": "01:55.50",
+        "start_s": 71.2,
+        "end_s": 115.5,
+        "duration_s": 44.3
+      }
+    ],
+    "total_seconds": 44.3,
+    "hook": "PEASANT MOTHER: \"I will tell the village what you did. They will never forget you.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:55.50: \"Impossible.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 41,
+    "promo_id": "ep020_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 20,
+        "start": "01:10.60",
+        "end": "01:54.75",
+        "start_s": 70.6,
+        "end_s": 114.75,
+        "duration_s": 44.15
+      }
+    ],
+    "total_seconds": 44.15,
+    "hook": "SEAMUS: \"You are a viscount's daughter!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:54.75: \"This house will only bow to me.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 42,
+    "promo_id": "ep043_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 43,
+        "start": "01:11.40",
+        "end": "01:54.96",
+        "start_s": 71.4,
+        "end_s": 114.96,
+        "duration_s": 43.56
+      }
+    ],
+    "total_seconds": 43.56,
+    "hook": "BLOND NOBLEMAN: \"I didn't!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:54.96: \"Going somewhere, Lord Sterling?\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 43,
+    "promo_id": "ep021_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 21,
+        "start": "01:12.00",
+        "end": "01:54.00",
+        "start_s": 72.0,
+        "end_s": 114.0,
+        "duration_s": 42.0
+      }
+    ],
+    "total_seconds": 42.0,
+    "hook": "PRUDENCE: \"Oh, thank God! His chest is quiet! The rattling has stopped!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:54.00: Lady Juliana sits motionless at the rustic wooden table, her bandaged hands hold",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 44,
+    "promo_id": "ep031_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 31,
+        "start": "01:58.40",
+        "end": "02:40.00",
+        "start_s": 118.4,
+        "end_s": 160.0,
+        "duration_s": 41.6
+      }
+    ],
+    "total_seconds": 41.6,
+    "hook": "JULIANA: \"Then why are you so desperate to make me kneel?\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:40.00: Juliana recoils back against the hard dungeon wall, gasping for breath in raw te",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 45,
+    "promo_id": "ep041_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 41,
+        "start": "00:54.80",
+        "end": "01:36.09",
+        "start_s": 54.8,
+        "end_s": 96.09,
+        "duration_s": 41.29
+      }
+    ],
+    "total_seconds": 41.29,
+    "hook": "ACTION: Juliana looks around the cathedral at the sea of pompous faces, then raises her ",
+    "cliffhanger": "Episode ends on high-tension beat at 01:36.09: Silhouetted armed figures emerge through the smoke and rubble of the breached do",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 46,
+    "promo_id": "ep006_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 6,
+        "start": "01:14.30",
+        "end": "01:55.00",
+        "start_s": 74.3,
+        "end_s": 115.0,
+        "duration_s": 40.7
+      }
+    ],
+    "total_seconds": 40.7,
+    "hook": "ACTION: Instead of stopping her, the Mysterious Bearded Man kneels beside the table and ",
+    "cliffhanger": "Episode ends on high-tension beat at 01:55.00: \"Sitting here with him, I don't feel afraid.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 47,
+    "promo_id": "ep049_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 49,
+        "start": "01:44.20",
+        "end": "02:24.75",
+        "start_s": 104.2,
+        "end_s": 144.75,
+        "duration_s": 40.55
+      }
+    ],
+    "total_seconds": 40.55,
+    "hook": "FATHER THOMAS: \"If I keep the hearing open, if I feed you every word spoken behind those doors,",
+    "cliffhanger": "Episode ends on high-tension beat at 02:24.75: \"We always have.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 48,
+    "promo_id": "ep016_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 16,
+        "start": "00:44.20",
+        "end": "01:23.19",
+        "start_s": 44.2,
+        "end_s": 83.19,
+        "duration_s": 38.99
+      }
+    ],
+    "total_seconds": 38.99,
+    "hook": "THUG WITH CAP: \"No one!\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:23.19: Alexander and Juliana gaze deeply into each other's eyes, an unspoken bond formi",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 49,
+    "promo_id": "ep048_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 48,
+        "start": "00:43.30",
+        "end": "01:20.00",
+        "start_s": 43.3,
+        "end_s": 80.0,
+        "duration_s": 36.7
+      }
+    ],
+    "total_seconds": 36.7,
+    "hook": "AGNES: \"My lady... the Duke has bailiffs watching every road out of the county.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 01:20.00: \"And make sure no one sees him arrive.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 50,
+    "promo_id": "ep035_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 35,
+        "start": "02:02.00",
+        "end": "02:37.50",
+        "start_s": 122.0,
+        "end_s": 157.5,
+        "duration_s": 35.5
+      }
+    ],
+    "total_seconds": 35.5,
+    "hook": "ALEXANDER'S MOTHER: \"Then why did they never tell us?\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:37.50: \"The men behind it... are the same men ruling Ashwood now.\"",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 51,
+    "promo_id": "ep027_finale_cliffhanger",
+    "segments": [
+      {
+        "episode": 27,
+        "start": "01:55.10",
+        "end": "02:30.50",
+        "start_s": 115.1,
+        "end_s": 150.5,
+        "duration_s": 35.4
+      }
+    ],
+    "total_seconds": 35.4,
+    "hook": "JULIANA: \"Poison.\"",
+    "cliffhanger": "Episode ends on high-tension beat at 02:30.50: The guard twists Juliana around and drags her forcibly toward the doorway as she",
+    "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.5,
+      "cliffhanger": 4.8,
+      "standalone": 4.3,
+      "overall": 4.545
+    },
+    "flags": []
+  },
+  {
+    "rank": 52,
+    "promo_id": "ep002_opening_hook",
+    "segments": [
+      {
+        "episode": 2,
+        "start": "00:00.00",
+        "end": "00:44.70",
+        "start_s": 0.0,
+        "end_s": 44.7,
+        "duration_s": 44.7
+      }
+    ],
+    "total_seconds": 44.7,
+    "hook": "THE FORMER GROOM: \"I cannot marry you, Juliana.\"",
+    "cliffhanger": "Cuts at 00:44.70: \"Do not disgrace us further.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.7,
+      "overall": 4.525
+    },
+    "flags": []
+  },
+  {
+    "rank": 53,
+    "promo_id": "ep049_opening_hook",
+    "segments": [
+      {
+        "episode": 49,
+        "start": "00:01.80",
+        "end": "00:46.50",
+        "start_s": 1.8,
+        "end_s": 46.5,
+        "duration_s": 44.7
+      }
+    ],
+    "total_seconds": 44.7,
+    "hook": "ACTION: Father Thomas, clad in a hooded dark mantle over priestly black robes, secures t",
+    "cliffhanger": "Cuts at 00:46.50: \"It will keep serving us as long as neither of us gets careless. No one in this ",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.7,
+      "overall": 4.525
+    },
+    "flags": []
+  },
+  {
+    "rank": 54,
+    "promo_id": "ep011_opening_hook",
+    "segments": [
+      {
+        "episode": 11,
+        "start": "00:02.00",
+        "end": "00:46.30",
+        "start_s": 2.0,
+        "end_s": 46.3,
+        "duration_s": 44.3
+      }
+    ],
+    "total_seconds": 44.3,
+    "hook": "ACTION: Juliana wrings a damp rag in her hands, her face etched with rising dread, while",
+    "cliffhanger": "Cuts at 00:46.30: \"You cannot simply invade our home because this man makes an accusation!\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.7,
+      "overall": 4.525
+    },
+    "flags": []
+  },
+  {
+    "rank": 55,
+    "promo_id": "ep004_opening_hook",
+    "segments": [
+      {
+        "episode": 4,
+        "start": "00:01.50",
+        "end": "00:44.80",
+        "start_s": 1.5,
+        "end_s": 44.8,
+        "duration_s": 43.3
+      }
+    ],
+    "total_seconds": 43.3,
+    "hook": "ACTION: Juliana's eyes widen, stunned breath catching in her throat.",
+    "cliffhanger": "Cuts at 00:44.80: \"You don't know what my family has done to me.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.7,
+      "overall": 4.525
+    },
+    "flags": []
+  },
+  {
+    "rank": 56,
+    "promo_id": "ep012_opening_hook",
+    "segments": [
+      {
+        "episode": 12,
+        "start": "00:00.50",
+        "end": "00:43.50",
+        "start_s": 0.5,
+        "end_s": 43.5,
+        "duration_s": 43.0
+      }
+    ],
+    "total_seconds": 43.0,
+    "hook": "CONSTABLE: \"Put out your hands, veteran. You are under arrest for theft.\"",
+    "cliffhanger": "Cuts at 00:43.50: \"What do you want?\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.7,
+      "overall": 4.525
+    },
+    "flags": []
+  },
+  {
+    "rank": 57,
+    "promo_id": "ep027_opening_hook",
+    "segments": [
+      {
+        "episode": 27,
+        "start": "00:01.30",
+        "end": "00:44.20",
+        "start_s": 1.3,
+        "end_s": 44.2,
+        "duration_s": 42.9
+      }
+    ],
+    "total_seconds": 42.9,
+    "hook": "DOWAGER DUCHESS: \"This ring...\"",
+    "cliffhanger": "Cuts at 00:44.20: \"He never spoke of his officers. He only spoke of survival.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.7,
+      "overall": 4.525
+    },
+    "flags": []
+  },
+  {
+    "rank": 58,
+    "promo_id": "ep041_opening_hook",
+    "segments": [
+      {
+        "episode": 41,
+        "start": "00:01.80",
+        "end": "00:44.20",
+        "start_s": 1.8,
+        "end_s": 44.2,
+        "duration_s": 42.4
+      }
+    ],
+    "total_seconds": 42.4,
+    "hook": "ACTION: Catherine abruptly pulls away from Rupert and raises her white-gloved hand high,",
+    "cliffhanger": "Cuts at 00:44.20: \"Lady Juliana Ashcroft. Look around.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.7,
+      "overall": 4.525
+    },
+    "flags": []
+  },
+  {
+    "rank": 59,
+    "promo_id": "ep001_opening_hook",
+    "segments": [
+      {
+        "episode": 1,
+        "start": "00:01.00",
+        "end": "00:43.10",
+        "start_s": 1.0,
+        "end_s": 43.1,
+        "duration_s": 42.1
+      }
+    ],
+    "total_seconds": 42.1,
+    "hook": "ACTION: Juliana pauses at the threshold, her expression bright with joyful anticipation,",
+    "cliffhanger": "Cuts at 00:43.10: \"No...\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.7,
+      "overall": 4.525
+    },
+    "flags": []
+  },
+  {
+    "rank": 60,
+    "promo_id": "ep020_opening_hook",
+    "segments": [
+      {
+        "episode": 20,
+        "start": "00:02.90",
+        "end": "00:44.90",
+        "start_s": 2.9,
+        "end_s": 44.9,
+        "duration_s": 42.0
+      }
+    ],
+    "total_seconds": 42.0,
+    "hook": "CATHERINE: \"Two lumps of sugar, Rupert?\"",
+    "cliffhanger": "Cuts at 00:44.90: \"Good. The village is already whispering about her.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.7,
+      "overall": 4.525
+    },
+    "flags": []
+  },
+  {
+    "rank": 61,
+    "promo_id": "ep014_opening_hook",
+    "segments": [
+      {
+        "episode": 14,
+        "start": "00:00.50",
+        "end": "00:38.50",
+        "start_s": 0.5,
+        "end_s": 38.5,
+        "duration_s": 38.0
+      }
+    ],
+    "total_seconds": 38.0,
+    "hook": "ACTION: Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revea",
+    "cliffhanger": "Cuts at 00:38.50: \"You should never have had to bleed for me.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.7,
+      "overall": 4.525
+    },
+    "flags": []
+  },
+  {
+    "rank": 62,
+    "promo_id": "ep013_mid_confrontation",
+    "segments": [
+      {
+        "episode": 13,
+        "start": "00:37.00",
+        "end": "01:07.00",
+        "start_s": 37.0,
+        "end_s": 67.0,
+        "duration_s": 30.0
+      }
+    ],
+    "total_seconds": 30.0,
+    "hook": "CLARISSA: \"Careful, sister.\"",
+    "cliffhanger": "Unresolved confrontation cut at 01:07.00: \"Keep searching, Juliana. Your husband's freedom is somewhere in that garden.\"",
+    "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.3,
+      "cliffhanger": 4.5,
+      "standalone": 4.7,
+      "overall": 4.49
+    },
+    "flags": []
+  },
+  {
+    "rank": 63,
+    "promo_id": "ep027_mid_confrontation",
+    "segments": [
+      {
+        "episode": 27,
+        "start": "00:32.10",
+        "end": "01:01.80",
+        "start_s": 32.1,
+        "end_s": 61.8,
+        "duration_s": 29.7
+      }
+    ],
+    "total_seconds": 29.7,
+    "hook": "JULIANA: \"Your son? He told me he was only a sergeant.\"",
+    "cliffhanger": "Unresolved confrontation cut at 01:01.80: \"What are you hiding?\"",
+    "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.3,
+      "cliffhanger": 4.5,
+      "standalone": 4.7,
+      "overall": 4.49
+    },
+    "flags": []
+  },
+  {
+    "rank": 64,
+    "promo_id": "ep031_mid_confrontation",
+    "segments": [
+      {
+        "episode": 31,
+        "start": "00:39.20",
+        "end": "01:05.30",
+        "start_s": 39.2,
+        "end_s": 65.3,
+        "duration_s": 26.1
+      }
+    ],
+    "total_seconds": 26.1,
+    "hook": "JULIANA: \"I became a disgrace when I refused to become cruel.\"",
+    "cliffhanger": "Unresolved confrontation cut at 01:05.30: \"I chose myself.\"",
+    "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.3,
+      "cliffhanger": 4.5,
+      "standalone": 4.7,
+      "overall": 4.49
+    },
+    "flags": []
+  },
+  {
+    "rank": 65,
+    "promo_id": "ep040_mid_confrontation",
+    "segments": [
+      {
+        "episode": 40,
+        "start": "00:44.10",
+        "end": "01:09.30",
+        "start_s": 44.1,
+        "end_s": 69.3,
+        "duration_s": 25.2
+      }
+    ],
+    "total_seconds": 25.2,
+    "hook": "LORD HARRINGTON: \"Of the wedding?\"",
+    "cliffhanger": "Unresolved confrontation cut at 01:09.30: \"Good.\"",
+    "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+    "standalone_note": "Archetypal wedding betrayal theme is immediately legible to anyone without lore.",
+    "scores": {
+      "hook": 4.3,
+      "cliffhanger": 4.5,
+      "standalone": 4.7,
+      "overall": 4.49
+    },
+    "flags": []
+  },
+  {
+    "rank": 66,
+    "promo_id": "ep006_opening_hook",
+    "segments": [
+      {
+        "episode": 6,
+        "start": "00:00.00",
+        "end": "00:45.00",
+        "start_s": 0.0,
+        "end_s": 45.0,
+        "duration_s": 45.0
+      }
+    ],
+    "total_seconds": 45.0,
+    "hook": "ACTION: Juliana lifts the hem of her white satin wedding gown to keep it out of the pool",
+    "cliffhanger": "Cuts at 00:45.00: \"You came from comfort.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 67,
+    "promo_id": "ep008_opening_hook",
+    "segments": [
+      {
+        "episode": 8,
+        "start": "00:00.00",
+        "end": "00:44.90",
+        "start_s": 0.0,
+        "end_s": 44.9,
+        "duration_s": 44.9
+      }
+    ],
+    "total_seconds": 44.9,
+    "hook": "ACTION: Juliana delicately runs her fingertips across the embossed leather cover of the ",
+    "cliffhanger": "Cuts at 00:44.90: \"It has advantages.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 68,
+    "promo_id": "ep007_opening_hook",
+    "segments": [
+      {
+        "episode": 7,
+        "start": "00:00.00",
+        "end": "00:44.80",
+        "start_s": 0.0,
+        "end_s": 44.8,
+        "duration_s": 44.8
+      }
+    ],
+    "total_seconds": 44.8,
+    "hook": "ACTION: Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soi",
+    "cliffhanger": "Cuts at 00:44.80: \"I work with my hands. There is no shame in that.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 69,
+    "promo_id": "ep017_opening_hook",
+    "segments": [
+      {
+        "episode": 17,
+        "start": "00:00.00",
+        "end": "00:44.70",
+        "start_s": 0.0,
+        "end_s": 44.7,
+        "duration_s": 44.7
+      }
+    ],
+    "total_seconds": 44.7,
+    "hook": "ACTION: Juliana sits on her knees in her dirt-smudged dress, her hands wrapped in clean ",
+    "cliffhanger": "Cuts at 00:44.70: \"You were bleeding last night.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 70,
+    "promo_id": "ep023_opening_hook",
+    "segments": [
+      {
+        "episode": 23,
+        "start": "00:01.80",
+        "end": "00:46.50",
+        "start_s": 1.8,
+        "end_s": 46.5,
+        "duration_s": 44.7
+      }
+    ],
+    "total_seconds": 44.7,
+    "hook": "PRUDENCE: \"Juliana, we cannot stay for long. Someone will come.\"",
+    "cliffhanger": "Cuts at 00:46.50: \"This is not simply old age.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 71,
+    "promo_id": "ep030_opening_hook",
+    "segments": [
+      {
+        "episode": 30,
+        "start": "00:03.00",
+        "end": "00:47.30",
+        "start_s": 3.0,
+        "end_s": 47.3,
+        "duration_s": 44.3
+      }
+    ],
+    "total_seconds": 44.3,
+    "hook": "ACTION: The Elder Nobleman walks with stern, unhurried authority, dressed in an immacula",
+    "cliffhanger": "Cuts at 00:47.30: \"We stop hiding the prisoner.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 72,
+    "promo_id": "ep005_opening_hook",
+    "segments": [
+      {
+        "episode": 5,
+        "start": "00:00.00",
+        "end": "00:44.20",
+        "start_s": 0.0,
+        "end_s": 44.2,
+        "duration_s": 44.2
+      }
+    ],
+    "total_seconds": 44.2,
+    "hook": "ACTION: Juliana grips the heirloom ledger tightly against her waist, her posture resolut",
+    "cliffhanger": "Cuts at 00:44.20: \"Enough sentiment.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 73,
+    "promo_id": "ep022_opening_hook",
+    "segments": [
+      {
+        "episode": 22,
+        "start": "00:00.00",
+        "end": "00:44.20",
+        "start_s": 0.0,
+        "end_s": 44.2,
+        "duration_s": 44.2
+      }
+    ],
+    "total_seconds": 44.2,
+    "hook": "ACTION: Lady Juliana walks nervously along the stone pavement dressed in a modest dark m",
+    "cliffhanger": "Cuts at 00:44.20: \"Prudence.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 74,
+    "promo_id": "ep035_opening_hook",
+    "segments": [
+      {
+        "episode": 35,
+        "start": "00:00.00",
+        "end": "00:44.20",
+        "start_s": 0.0,
+        "end_s": 44.2,
+        "duration_s": 44.2
+      }
+    ],
+    "total_seconds": 44.2,
+    "hook": "ACTION: Alexander's mother, frail with silver hair under a dark hooded cloak, braces her",
+    "cliffhanger": "Cuts at 00:44.20: \"Mother?\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 75,
+    "promo_id": "ep015_opening_hook",
+    "segments": [
+      {
+        "episode": 15,
+        "start": "00:00.00",
+        "end": "00:44.00",
+        "start_s": 0.0,
+        "end_s": 44.0,
+        "duration_s": 44.0
+      }
+    ],
+    "total_seconds": 44.0,
+    "hook": "ACTION: Three menacing thugs, armed with clubs and tools, stalk through the quiet herbal",
+    "cliffhanger": "Cuts at 00:44.00: \"It is my home. You have no right to destroy anything here.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 76,
+    "promo_id": "ep016_opening_hook",
+    "segments": [
+      {
+        "episode": 16,
+        "start": "00:00.00",
+        "end": "00:44.00",
+        "start_s": 0.0,
+        "end_s": 44.0,
+        "duration_s": 44.0
+      }
+    ],
+    "total_seconds": 44.0,
+    "hook": "ACTION: Alexander stands tall and unyielding, blocking the path to Juliana, while the Th",
+    "cliffhanger": "Cuts at 00:44.00: \"Who sent you?\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 77,
+    "promo_id": "ep003_opening_hook",
+    "segments": [
+      {
+        "episode": 3,
+        "start": "00:02.10",
+        "end": "00:46.00",
+        "start_s": 2.1,
+        "end_s": 46.0,
+        "duration_s": 43.9
+      }
+    ],
+    "total_seconds": 43.9,
+    "hook": "LADY IN GOLD GOWN: \"Look at you...\"",
+    "cliffhanger": "Cuts at 00:46.00: \"Wherever a discarded daughter belongs.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 78,
+    "promo_id": "ep036_opening_hook",
+    "segments": [
+      {
+        "episode": 36,
+        "start": "00:00.00",
+        "end": "00:43.70",
+        "start_s": 0.0,
+        "end_s": 43.7,
+        "duration_s": 43.7
+      }
+    ],
+    "total_seconds": 43.7,
+    "hook": "ACTION: Alexander's mother leans forward with both hands on the rustic table, searching ",
+    "cliffhanger": "Cuts at 00:43.70: \"They declared me dead.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 79,
+    "promo_id": "ep047_opening_hook",
+    "segments": [
+      {
+        "episode": 47,
+        "start": "00:01.80",
+        "end": "00:45.50",
+        "start_s": 1.8,
+        "end_s": 45.5,
+        "duration_s": 43.7
+      }
+    ],
+    "total_seconds": 43.7,
+    "hook": "CATHERINE: \"Rupert is rotting in the undercroft cells. Not me. I intend to stay on this est",
+    "cliffhanger": "Cuts at 00:45.50: \"You are my wife.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 80,
+    "promo_id": "ep025_opening_hook",
+    "segments": [
+      {
+        "episode": 25,
+        "start": "00:00.60",
+        "end": "00:44.20",
+        "start_s": 0.6,
+        "end_s": 44.2,
+        "duration_s": 43.6
+      }
+    ],
+    "total_seconds": 43.6,
+    "hook": "ACTION: Juliana walks hurriedly along the leaf-strewn forest path, clutching her dark ho",
+    "cliffhanger": "Cuts at 00:44.20: \"I was in the wrong chamber. I was punished as a maid.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 81,
+    "promo_id": "ep029_opening_hook",
+    "segments": [
+      {
+        "episode": 29,
+        "start": "00:02.90",
+        "end": "00:46.50",
+        "start_s": 2.9,
+        "end_s": 46.5,
+        "duration_s": 43.6
+      }
+    ],
+    "total_seconds": 43.6,
+    "hook": "ACTION: Juliana resists furiously, her feet stumbling on the wet flagstones as the guard",
+    "cliffhanger": "Cuts at 00:46.50: \"You cannot just destroy it!\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 82,
+    "promo_id": "ep009_opening_hook",
+    "segments": [
+      {
+        "episode": 9,
+        "start": "00:00.00",
+        "end": "00:43.50",
+        "start_s": 0.0,
+        "end_s": 43.5,
+        "duration_s": 43.5
+      }
+    ],
+    "total_seconds": 43.5,
+    "hook": "ACTION: Juliana methodically crushes herbs in the mortar beside her open herbal grimoire",
+    "cliffhanger": "Cuts at 00:43.50: Alexander returns and pours steaming hot water into the stone mortar as Juliana ",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 83,
+    "promo_id": "ep034_opening_hook",
+    "segments": [
+      {
+        "episode": 34,
+        "start": "00:01.20",
+        "end": "00:44.60",
+        "start_s": 1.2,
+        "end_s": 44.6,
+        "duration_s": 43.4
+      }
+    ],
+    "total_seconds": 43.4,
+    "hook": "JUDGE: \"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poi",
+    "cliffhanger": "Cuts at 00:44.60: \"Yes, Your Honor.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 84,
+    "promo_id": "ep026_opening_hook",
+    "segments": [
+      {
+        "episode": 26,
+        "start": "00:00.00",
+        "end": "00:43.00",
+        "start_s": 0.0,
+        "end_s": 43.0,
+        "duration_s": 43.0
+      }
+    ],
+    "total_seconds": 43.0,
+    "hook": "ACTION: Juliana glances nervously back toward the door, ensuring no guards are near, bef",
+    "cliffhanger": "Cuts at 00:43.00: \"Rest now, Your Grace. You are safe tonight.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 85,
+    "promo_id": "ep038_opening_hook",
+    "segments": [
+      {
+        "episode": 38,
+        "start": "00:00.00",
+        "end": "00:43.00",
+        "start_s": 0.0,
+        "end_s": 43.0,
+        "duration_s": 43.0
+      }
+    ],
+    "total_seconds": 43.0,
+    "hook": "ACTION: Juliana sits motionless against the cold masonry, weak and visibly drained from ",
+    "cliffhanger": "Cuts at 00:43.00: \"Do you even know what happened to me?\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 86,
+    "promo_id": "ep048_opening_hook",
+    "segments": [
+      {
+        "episode": 48,
+        "start": "00:00.00",
+        "end": "00:43.00",
+        "start_s": 0.0,
+        "end_s": 43.0,
+        "duration_s": 43.0
+      }
+    ],
+    "total_seconds": 43.0,
+    "hook": "ACTION: Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gaz",
+    "cliffhanger": "Cuts at 00:43.00: \"Grief makes people careless, and carelessness is exactly what I need from that ",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 87,
+    "promo_id": "ep021_opening_hook",
+    "segments": [
+      {
+        "episode": 21,
+        "start": "00:00.00",
+        "end": "00:42.80",
+        "start_s": 0.0,
+        "end_s": 42.8,
+        "duration_s": 42.8
+      }
+    ],
+    "total_seconds": 42.8,
+    "hook": "ACTION: Lady Juliana gently straightens the grey wool blanket over the hay bed, exhaling",
+    "cliffhanger": "Cuts at 00:42.80: Lady Juliana clutches the thick book to her chest as she and Prudence sprint swi",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 88,
+    "promo_id": "ep046_opening_hook",
+    "segments": [
+      {
+        "episode": 46,
+        "start": "00:00.00",
+        "end": "00:42.50",
+        "start_s": 0.0,
+        "end_s": 42.5,
+        "duration_s": 42.5
+      }
+    ],
+    "total_seconds": 42.5,
+    "hook": "ACTION: Alexander holds Juliana's hand resolutely as Juliana gazes toward the church ais",
+    "cliffhanger": "Cuts at 00:42.50: \"The church married a vagrant to a ruined lady. It never married the Duke of Ash",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 89,
+    "promo_id": "ep050_opening_hook",
+    "segments": [
+      {
+        "episode": 50,
+        "start": "00:00.00",
+        "end": "00:42.50",
+        "start_s": 0.0,
+        "end_s": 42.5,
+        "duration_s": 42.5
+      }
+    ],
+    "total_seconds": 42.5,
+    "hook": "ACTION: Father Thomas lies flat on his back, breathless, while Catherine rests beside hi",
+    "cliffhanger": "Cuts at 00:42.50: \"For as long as it holds.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 90,
+    "promo_id": "ep028_opening_hook",
+    "segments": [
+      {
+        "episode": 28,
+        "start": "00:00.00",
+        "end": "00:42.20",
+        "start_s": 0.0,
+        "end_s": 42.2,
+        "duration_s": 42.2
+      }
+    ],
+    "total_seconds": 42.2,
+    "hook": "ACTION: Juliana struggles against the guard's grip; the leather-bound herbarium slips fr",
+    "cliffhanger": "Cuts at 00:42.20: \"And you... you knew!\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 91,
+    "promo_id": "ep039_opening_hook",
+    "segments": [
+      {
+        "episode": 39,
+        "start": "00:00.00",
+        "end": "00:42.20",
+        "start_s": 0.0,
+        "end_s": 42.2,
+        "duration_s": 42.2
+      }
+    ],
+    "total_seconds": 42.2,
+    "hook": "ACTION: Men in work clothes stack wooden crates onto the back of a large carriage as hor",
+    "cliffhanger": "Cuts at 00:42.20: \"Sleep.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 92,
+    "promo_id": "ep043_opening_hook",
+    "segments": [
+      {
+        "episode": 43,
+        "start": "00:00.60",
+        "end": "00:42.50",
+        "start_s": 0.6,
+        "end_s": 42.5,
+        "duration_s": 41.9
+      }
+    ],
+    "total_seconds": 41.9,
+    "hook": "BLOND NOBLEMAN: \"You're lying!\"",
+    "cliffhanger": "Cuts at 00:42.50: \"Military Intelligence Report, Iberian front, three years ago.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 93,
+    "promo_id": "ep045_opening_hook",
+    "segments": [
+      {
+        "episode": 45,
+        "start": "00:00.00",
+        "end": "00:41.80",
+        "start_s": 0.0,
+        "end_s": 41.8,
+        "duration_s": 41.8
+      }
+    ],
+    "total_seconds": 41.8,
+    "hook": "ACTION: Alexander strides purposefully down the cathedral aisle, ignoring the watching n",
+    "cliffhanger": "Cuts at 00:41.80: \"And I chose you because you saw the man before the title.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 94,
+    "promo_id": "ep019_opening_hook",
+    "segments": [
+      {
+        "episode": 19,
+        "start": "00:00.00",
+        "end": "00:41.50",
+        "start_s": 0.0,
+        "end_s": 41.5,
+        "duration_s": 41.5
+      }
+    ],
+    "total_seconds": 41.5,
+    "hook": "ACTION: Juliana clutches her mother's scorched leather-bound herbal book against her che",
+    "cliffhanger": "Cuts at 00:41.50: Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 95,
+    "promo_id": "ep042_opening_hook",
+    "segments": [
+      {
+        "episode": 42,
+        "start": "00:01.00",
+        "end": "00:42.50",
+        "start_s": 1.0,
+        "end_s": 42.5,
+        "duration_s": 41.5
+      }
+    ],
+    "total_seconds": 41.5,
+    "hook": "ACTION: Alexander strides deliberately through the pulverized cathedral doorway. Dressed",
+    "cliffhanger": "Cuts at 00:42.50: \"Alexander...\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 96,
+    "promo_id": "ep033_opening_hook",
+    "segments": [
+      {
+        "episode": 33,
+        "start": "00:02.50",
+        "end": "00:43.60",
+        "start_s": 2.5,
+        "end_s": 43.6,
+        "duration_s": 41.1
+      }
+    ],
+    "total_seconds": 41.1,
+    "hook": "LORD: \"Your brother is breathing again.\"",
+    "cliffhanger": "Cuts at 00:43.60: \"Yes.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 97,
+    "promo_id": "ep031_opening_hook",
+    "segments": [
+      {
+        "episode": 31,
+        "start": "00:02.80",
+        "end": "00:43.00",
+        "start_s": 2.8,
+        "end_s": 43.0,
+        "duration_s": 40.2
+      }
+    ],
+    "total_seconds": 40.2,
+    "hook": "ACTION: Juliana recoils against the damp stonework, her eyes wide with terror as light f",
+    "cliffhanger": "Cuts at 00:43.00: \"I became a disgrace when I refused to become cruel.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 98,
+    "promo_id": "ep010_opening_hook",
+    "segments": [
+      {
+        "episode": 10,
+        "start": "00:00.00",
+        "end": "00:38.90",
+        "start_s": 0.0,
+        "end_s": 38.9,
+        "duration_s": 38.9
+      }
+    ],
+    "total_seconds": 38.9,
+    "hook": "ACTION: Juliana quietly studies the botanical illustrations by firelight, a bundle of fr",
+    "cliffhanger": "Cuts at 00:38.90: \"Dear God.\"",
+    "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.6,
+      "cliffhanger": 4.3,
+      "standalone": 4.3,
+      "overall": 4.405
+    },
+    "flags": []
+  },
+  {
+    "rank": 99,
+    "promo_id": "ep018_mid_confrontation",
+    "segments": [
+      {
+        "episode": 18,
+        "start": "00:20.80",
+        "end": "00:57.80",
+        "start_s": 20.8,
+        "end_s": 57.8,
+        "duration_s": 37.0
+      }
+    ],
+    "total_seconds": 37.0,
+    "hook": "ALEXANDER: \"Juliana! Get up!\"",
+    "cliffhanger": "Unresolved confrontation cut at 00:57.80: \"The ledger!\"",
+    "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.3,
+      "cliffhanger": 4.5,
+      "standalone": 4.3,
+      "overall": 4.37
+    },
+    "flags": []
+  },
+  {
+    "rank": 100,
+    "promo_id": "ep035_mid_confrontation",
+    "segments": [
+      {
+        "episode": 35,
+        "start": "00:37.00",
+        "end": "01:14.00",
+        "start_s": 37.0,
+        "end_s": 74.0,
+        "duration_s": 37.0
+      }
+    ],
+    "total_seconds": 37.0,
+    "hook": "ALEXANDER'S MOTHER: \"Alexander!\"",
+    "cliffhanger": "Unresolved confrontation cut at 01:14.00: \"Then how did you survive?\"",
+    "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.3,
+      "cliffhanger": 4.5,
+      "standalone": 4.3,
+      "overall": 4.37
+    },
+    "flags": []
+  },
+  {
+    "rank": 101,
+    "promo_id": "ep023_mid_confrontation",
+    "segments": [
+      {
+        "episode": 23,
+        "start": "01:00.80",
+        "end": "01:37.00",
+        "start_s": 60.8,
+        "end_s": 97.0,
+        "duration_s": 36.2
+      }
+    ],
+    "total_seconds": 36.2,
+    "hook": "PRUDENCE: \"What is it?\"",
+    "cliffhanger": "Unresolved confrontation cut at 01:37.00: \"Can you save her?\"",
+    "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.3,
+      "cliffhanger": 4.5,
+      "standalone": 4.3,
+      "overall": 4.37
+    },
+    "flags": []
+  },
+  {
+    "rank": 102,
+    "promo_id": "ep026_mid_confrontation",
+    "segments": [
+      {
+        "episode": 26,
+        "start": "00:56.00",
+        "end": "01:30.50",
+        "start_s": 56.0,
+        "end_s": 90.5,
+        "duration_s": 34.5
+      }
+    ],
+    "total_seconds": 34.5,
+    "hook": "DOWAGER DUCHESS: \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't ",
+    "cliffhanger": "Unresolved confrontation cut at 01:30.50: Juliana rests her right hand against the edge of the bedcover, unwittingly placi",
+    "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.3,
+      "cliffhanger": 4.5,
+      "standalone": 4.3,
+      "overall": 4.37
+    },
+    "flags": []
+  },
+  {
+    "rank": 103,
+    "promo_id": "ep049_mid_confrontation",
+    "segments": [
+      {
+        "episode": 49,
+        "start": "01:12.60",
+        "end": "01:43.20",
+        "start_s": 72.6,
+        "end_s": 103.2,
+        "duration_s": 30.6
+      }
+    ],
+    "total_seconds": 30.6,
+    "hook": "FATHER THOMAS: \"What is it you actually need from me, Catherine? Say it plainly, for once.\"",
+    "cliffhanger": "Unresolved confrontation cut at 01:43.20: \"Is that so unreasonable coming from a woman the church itself just humiliated b",
+    "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.3,
+      "cliffhanger": 4.5,
+      "standalone": 4.3,
+      "overall": 4.37
+    },
+    "flags": []
+  },
+  {
+    "rank": 104,
+    "promo_id": "ep037_mid_confrontation",
+    "segments": [
+      {
+        "episode": 37,
+        "start": "00:23.80",
+        "end": "00:52.80",
+        "start_s": 23.8,
+        "end_s": 52.8,
+        "duration_s": 29.0
+      }
+    ],
+    "total_seconds": 29.0,
+    "hook": "CATHERINE: \"Juliana's execution comes after the wedding.\"",
+    "cliffhanger": "Unresolved confrontation cut at 00:52.80: \"Lady Catherine Ashbridge.\"",
+    "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.3,
+      "cliffhanger": 4.5,
+      "standalone": 4.3,
+      "overall": 4.37
+    },
+    "flags": []
+  },
+  {
+    "rank": 105,
+    "promo_id": "ep032_mid_confrontation",
+    "segments": [
+      {
+        "episode": 32,
+        "start": "00:23.80",
+        "end": "00:52.40",
+        "start_s": 23.8,
+        "end_s": 52.4,
+        "duration_s": 28.6
+      }
+    ],
+    "total_seconds": 28.6,
+    "hook": "CATHERINE: \"What?\"",
+    "cliffhanger": "Unresolved confrontation cut at 00:52.40: \"A woman who survived. You cannot destroy me.\"",
+    "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+    "standalone_note": "Strong interpersonal tension, high emotional stakes legible from character dynamics.",
+    "scores": {
+      "hook": 4.3,
+      "cliffhanger": 4.5,
+      "standalone": 4.3,
+      "overall": 4.37
+    },
+    "flags": []
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "promo_id": "ep010_finale_cliffhanger",
+      "segments": [
+        {
+          "episode": 10,
+          "start": "00:45.30",
+          "end": "01:34.00"
+        }
+      ],
+      "hook": "JULIANA: \"You have suffered terribly.\"",
+      "cliffhanger": "Episode ends on high-tension beat at 01:34.00: \"Your touch is the only medicine that has ever eased my pain.\"",
+      "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+      "hook_score": 4.5,
+      "cliffhanger_score": 4.8
+    },
+    {
+      "promo_id": "ep010_opening_hook",
+      "segments": [
+        {
+          "episode": 10,
+          "start": "00:00.00",
+          "end": "00:38.90"
+        }
+      ],
+      "hook": "ACTION: Juliana quietly studies the botanical illustrations by firelight, a bundle of fr",
+      "cliffhanger": "Cuts at 00:38.90: \"Dear God.\"",
+      "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+      "hook_score": 4.6,
+      "cliffhanger_score": 4.3
+    },
+    {
+      "promo_id": "ep010_mid_confrontation",
+      "segments": [
+        {
+          "episode": 10,
+          "start": "00:52.00",
+          "end": "01:25.90"
+        }
+      ],
+      "hook": "JULIANA: \"Does it hurt?\"",
+      "cliffhanger": "Unresolved confrontation cut at 01:25.90: \"Your touch is the only medicine that has ever eased my pain.\"",
+      "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+      "hook_score": 4.3,
+      "cliffhanger_score": 4.5
+    }
+  ]
+}

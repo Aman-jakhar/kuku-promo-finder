@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:03,000
+[HOOK] BLOND NOBLEMAN: "Do something!"
+
+2
+00:00:03,000 --> 00:00:49,100
+[PROMO BODY] Leverages built-in episode cliffhanger designed to stop scrolling viewers.
+
+3
+00:00:49,100 --> 00:00:53,100
+[CLIFFHANGER CUT] Episode ends on high-tension beat at 01:10.50: "Her?!"

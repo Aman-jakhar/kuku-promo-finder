@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:03,000
+[HOOK] NOBLEWOMAN: "Not a physician. Not a lady."
+
+2
+00:00:03,000 --> 00:00:51,000
+[PROMO BODY] Leverages built-in episode cliffhanger designed to stop scrolling viewers.
+
+3
+00:00:51,000 --> 00:00:55,000
+[CLIFFHANGER CUT] Episode ends on high-tension beat at 01:32.00: "I will return. You cannot stop the healer."

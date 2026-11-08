@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "promo_id": "ep004_finale_cliffhanger",
+      "segments": [
+        {
+          "episode": 4,
+          "start": "01:53.00",
+          "end": "02:31.40"
+        }
+      ],
+      "hook": "THE PRIEST: \"...husband and wife!\"",
+      "cliffhanger": "Episode ends on high-tension beat at 02:31.40: Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering do",
+      "why_it_works": "Leverages built-in episode cliffhanger designed to stop scrolling viewers.",
+      "hook_score": 4.5,
+      "cliffhanger_score": 4.8
+    },
+    {
+      "promo_id": "ep004_opening_hook",
+      "segments": [
+        {
+          "episode": 4,
+          "start": "00:01.50",
+          "end": "00:44.80"
+        }
+      ],
+      "hook": "ACTION: Juliana's eyes widen, stunned breath catching in her throat.",
+      "cliffhanger": "Cuts at 00:44.80: \"You don't know what my family has done to me.\"",
+      "why_it_works": "Explosive cold open grabs viewer in first 3 seconds.",
+      "hook_score": 4.6,
+      "cliffhanger_score": 4.3
+    },
+    {
+      "promo_id": "ep004_mid_confrontation",
+      "segments": [
+        {
+          "episode": 4,
+          "start": "00:25.90",
+          "end": "00:55.80"
+        }
+      ],
+      "hook": "JULIANA: \"Why would you offer me your name?\"",
+      "cliffhanger": "Unresolved confrontation cut at 00:55.80: \"If this is pity, take back your ring.\"",
+      "why_it_works": "Sharp confrontation escalation leaves viewer desperate to see the reply.",
+      "hook_score": 4.3,
+      "cliffhanger_score": 4.5
+    }
+  ]
+}
