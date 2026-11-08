@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:03,000
+[HOOK] JULIANA: "You have suffered terribly."
+
+2
+00:00:03,000 --> 00:00:44,700
+[PROMO BODY] Leverages built-in episode cliffhanger designed to stop scrolling viewers.
+
+3
+00:00:44,700 --> 00:00:48,700
+[CLIFFHANGER CUT] Episode ends on high-tension beat at 01:34.00: "Your touch is the only medicine that has ever eased my pain."
