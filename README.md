@@ -31,11 +31,21 @@ To run a dual-temperature stability check (evaluating Top-10 ranking consistency
 python promo_finder.py --input ./data --out ./outputs --stability-check
 ```
 
-### 4. Launch Interactive Streamlit Studio
-Launch the web interface to audit, filter, and inspect clip transcripts and timestamps:
+### 4. Launch Interactive Studios
+
+**Option A: React 9:16 Mobile Studio (Recommended)**
+```bash
+cd frontend
+npm install
+npm run dev # or npm run preview
+```
+Live at `http://localhost:3000` with 9:16 vertical phone simulator, live dynamic rubric sliders, 50-episode viral heatmap, and one-click NLE finishing package export.
+
+**Option B: Streamlit Studio**
 ```bash
 streamlit run app.py
 ```
+Live at `http://localhost:8501` for quick tabular review and CSV upload.
 
 ### 5. Run Unit Tests
 ```bash
